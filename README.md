@@ -1,7 +1,5 @@
 # Scroll Beat Kit
 
-A Granular **creator resource** by [@buildwithomar](https://github.com/buildwithomar).
-
 Build **scroll-driven product stories**: a section that pins in place while the reader
 scrolls and plays a short sequence of beats. Text and a visual move together: a product
 window flips to show before and after, splits into three pricing tiers, folds back into one,
